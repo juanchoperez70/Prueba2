@@ -33,4 +33,5 @@ script: phpunit --configuration phpunit_$DB.xml --coverage-text
 
 # configure notifications (email, IRC, campfire etc)
 notifications:
-  email: "juanchoperez70@gmail.com"
+  email: 
+  - juanchoperez70@gmail.com
