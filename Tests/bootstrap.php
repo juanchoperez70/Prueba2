@@ -1,5 +1,5 @@
 <?php
-
+// hola
 function loader($class)
 {
     $file = $class . '.php';
